@@ -211,7 +211,7 @@ https://gamejolt.com/games/zavod/994742
 ## Код
 
 Скрипты:
-https://github.com/unity-portfolio/Assets/procedure_scripts
+https://github.com/KrltiKZ/unity-portfolio/Assets/procedure_scripts
 
 ---
 
@@ -231,6 +231,3 @@ https://youtu.be/9L2Nz-I3bro
 * улучшением архитектуры
 * уменьшением связности
 * новыми аномалиями
-
-```
-```
