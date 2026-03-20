@@ -211,7 +211,7 @@ https://gamejolt.com/games/zavod/994742
 ## Код
 
 Скрипты:
-[https://github.com/KrltiKZ/unity-portfolio/Assets/procedure_scripts](https://github.com/KrItiKZ/unity-portfolio/tree/main/Assets/procedure_scripts)]
+[https://github.com/KrltiKZ/unity-portfolio/Assets/procedure_scripts](https://github.com/KrItiKZ/unity-portfolio/tree/main/Assets/procedure_scripts)
 
 ---
 
